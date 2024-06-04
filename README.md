@@ -10,8 +10,8 @@ As a Software Developer, my passion lies in creating accessible applications tha
 
 <div>
   <h2>TECH STACK</h2>
-  <img alt="HTML" src="https://img.shields.io/badge/-HTML5-fafafa.svg?style=for-the-badge&logo=html5&logoColor=black" />
-  <img alt="CSS" src="https://img.shields.io/badge/-CSS3-fafafa.svg?style=for-the-badge&logo=css3&logoColor=black" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-fafafa.svg?style=for-the-badge&logo=html5&logoColor=black" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-fafafa.svg?style=for-the-badge&logo=css3&logoColor=black" />
   <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-fafafa.svg?style=for-the-badge&logo=tailwindcss&logoColor=black" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fafafa.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="ReactJs" src="https://img.shields.io/badge/-Reactjs-fafafa.svg?style=for-the-badge&logo=react&logoColor=black" />
