@@ -31,7 +31,7 @@ As a Software Developer, my passion lies in creating accessible applications tha
   <img alt="Github" src="https://img.shields.io/badge/-github-fafafa.svg?style=for-the-badge&logo=github&logoColor=black" />
   <img alt="Postman" src="https://img.shields.io/badge/-postman-fafafa.svg?style=for-the-badge&logo=postman&logoColor=black" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-insomnia-fafafa.svg?style=for-the-badge&logo=insomnia&logoColor=black" />
-<!--   <img alt="Vim" src="https://img.shields.io/badge/-vim-fafafa.svg?style=for-the-badge&logo=vim&logoColor=black" /> -->
+  <img alt="Vim" src="https://img.shields.io/badge/-vim-fafafa.svg?style=for-the-badge&logo=vim&logoColor=black" />
 </div>
 
 <div>
