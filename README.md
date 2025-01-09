@@ -15,7 +15,7 @@
     "platforms": {
       "linkedin": "Allan Njoroge - linkedin.com/in/allan-njoroge-0177b2270/",
       "gmail": "allandavis254@gmail.com",
-      "portfolio_website": "justallan.netlfiy.app"
+      "portfolio_website": "justallan.netlify.app"
     }
   }
 }
