@@ -4,9 +4,10 @@
   "title": "Software Developer, but I have a thing for Backend",
 
   "tech_stack": {
-    "frontend": ["HTML", "CSS", "TailwindCSS", "JavaScript", "ReactJs", "Vite"],
-    "backend": ["Express.js", "Python", "Django"],
-    "databases": ["MySQL", "MongoDB"]
+    "languages": ["JavaScript", "TypeScript", "Python", "SQL"]
+    "frontend": ["React"],
+    "backend": ["Express", "Django"],
+    "databases": ["MySQL", "PostgreSQL" ,"MongoDB"]
   },
 
   "tools": ["VSCode", "Git", "GitHub", "Postman"],
